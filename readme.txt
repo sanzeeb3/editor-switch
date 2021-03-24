@@ -12,9 +12,9 @@ Easily switch the editor in your WordPress site with SHIFT + S.
 
 == Description ==
 
-**Enter SHIFT + S right within your post and it switches your editor. As easy as you'd like. 
+**Enter SHIFT + S right within your post and it switches your editor. As easy as you'd like.**
 
-**User preference is remembered.
+**User preference is remembered.**
 
 == Changelog ==
 
