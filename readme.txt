@@ -18,5 +18,5 @@ Easily switch the editor in your WordPress site with SHIFT + S.
 
 == Changelog ==
 
-= 1.0.0 - xx/xx/2021 =
+= 1.0.0 - 03/24/2021 =
 * Initial Release
