@@ -12,17 +12,21 @@ Easily switch the editor in your WordPress site with SHIFT + S.
 
 == Description ==
 
-**Enter the keyboard shortcut "SHIFT + S" right within your post and it switches your editor from Gutenberg (Block) to Classic and vice-versa. As easy as you'd like.**
+* Enter the **keyboard shortcut "SHIFT + S"** right within your post and it switches your editor from Gutenberg (Block) to Classic and vice-versa. As easy as you'd like.
 
-**Install and activate the plugin - that's it. No settings required.**
+* User preference is remembered.
 
-**User preference is remembered.**
+* Install and activate the plugin - that's it. No settings required.
 
 == Frequently Asked Questions ==
 
 = Will this work with every browsers?
 
 Maybe. Tested with browsers such as Google Chrome, Mozilla Firefox and Safari.
+
+= Does this require Gutenberg or Classic Editor plugin?
+
+No. This is a standalone plugin that switches from Gutenberg to Classic and vice-versa. No extra plugin(s) is required.
 
 == Changelog ==
 
